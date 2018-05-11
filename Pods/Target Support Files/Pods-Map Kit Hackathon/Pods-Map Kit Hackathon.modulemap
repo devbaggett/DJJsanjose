@@ -1,0 +1,6 @@
+framework module Pods_Map_Kit_Hackathon {
+  umbrella header "Pods-Map Kit Hackathon-umbrella.h"
+
+  export *
+  module * { export * }
+}
